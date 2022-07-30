@@ -168,6 +168,9 @@
     <ClCompile Include="1055 The World%27s Richest.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1056 Mice and Rice.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="1013源.h">

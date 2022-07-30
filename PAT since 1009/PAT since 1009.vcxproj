@@ -188,6 +188,7 @@
     <ClCompile Include="1053 Path of Equal Weight.cpp" />
     <ClCompile Include="1054 The Dominant Color.cpp" />
     <ClCompile Include="1055 The World%27s Richest.cpp" />
+    <ClCompile Include="1056 Mice and Rice.cpp" />
     <ClCompile Include="leetcode_8.cpp" />
     <ClCompile Include="template.cpp" />
   </ItemGroup>
