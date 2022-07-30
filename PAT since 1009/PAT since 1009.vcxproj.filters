@@ -165,6 +165,9 @@
     <ClCompile Include="1054 The Dominant Color.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1055 The World%27s Richest.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="1013源.h">
