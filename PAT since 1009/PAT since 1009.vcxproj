@@ -186,6 +186,7 @@
     <ClCompile Include="1051 Pop Sequence.cpp" />
     <ClCompile Include="1052 Linked List Sorting.cpp" />
     <ClCompile Include="1053 Path of Equal Weight.cpp" />
+    <ClCompile Include="1054 The Dominant Color.cpp" />
     <ClCompile Include="leetcode_8.cpp" />
     <ClCompile Include="template.cpp" />
   </ItemGroup>

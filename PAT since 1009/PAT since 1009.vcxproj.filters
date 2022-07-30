@@ -162,6 +162,9 @@
     <ClCompile Include="1053 Path of Equal Weight.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1054 The Dominant Color.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="1013源.h">
