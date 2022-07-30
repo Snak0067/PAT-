@@ -159,6 +159,9 @@
     <ClCompile Include="1052 Linked List Sorting.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1053 Path of Equal Weight.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="1013源.h">
