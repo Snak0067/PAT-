@@ -171,6 +171,15 @@
     <ClCompile Include="1056 Mice and Rice.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1057 Stack[树状数组 二分查找].cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1058 A+B in Hogwarts.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1059 Prime Factors.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="1013源.h">
