@@ -192,6 +192,13 @@
     <ClCompile Include="1057 Stack[树状数组 二分查找].cpp" />
     <ClCompile Include="1058 A+B in Hogwarts.cpp" />
     <ClCompile Include="1059 Prime Factors.cpp" />
+    <ClCompile Include="1060 Are They Equal.cpp" />
+    <ClCompile Include="1061 Dating.cpp" />
+    <ClCompile Include="1062 Talent and Virtue.cpp" />
+    <ClCompile Include="1063 Set Similarity.cpp" />
+    <ClCompile Include="1064 Complete Binary Search Tree.cpp" />
+    <ClCompile Include="1065 A+B and C (64bit).cpp" />
+    <ClCompile Include="1066 Root of AVL Tree.cpp" />
     <ClCompile Include="leetcode_8.cpp" />
     <ClCompile Include="template.cpp" />
   </ItemGroup>
