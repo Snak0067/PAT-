@@ -204,10 +204,11 @@
     <ClCompile Include="1067 Sort with Swap(0, i).cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="1013源.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
+    <ClCompile Include="1068 Find More Coins.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1069 The Black Hole of Numbers.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
