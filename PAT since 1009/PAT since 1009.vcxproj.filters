@@ -210,5 +210,8 @@
     <ClCompile Include="1069 The Black Hole of Numbers.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1070 Mooncake.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

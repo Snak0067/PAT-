@@ -202,6 +202,7 @@
     <ClCompile Include="1067 Sort with Swap(0, i).cpp" />
     <ClCompile Include="1068 Find More Coins.cpp" />
     <ClCompile Include="1069 The Black Hole of Numbers.cpp" />
+    <ClCompile Include="1070 Mooncake.cpp" />
     <ClCompile Include="leetcode_8.cpp" />
     <ClCompile Include="template.cpp" />
   </ItemGroup>
