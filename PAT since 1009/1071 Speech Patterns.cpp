@@ -9,16 +9,14 @@ string text;
 map<string, int>mmp;
 int main() {
 	getline(cin, text);
-	int begin = text.find_first_of('"');
-	int end = text.find_last_of('"');
-	text = text.substr(begin + 1, end - begin - 1);
 	transform(text.begin(), text.end(), text.begin(), ::tolower);
 	bool matchOver = false;
 	int index = 0, max = 0;
 	while (index < text.size())
 	{
 		string temp = "";
-		while (text[index] >= 'a' && text[index] <= 'z') {
+		while ((text[index] >= 'a' && text[index] <= 'z')
+			|| (text[index] >= '0' && text[index] <= '9')) {
 			temp.push_back(text[index++]);
 		}
 		index++;

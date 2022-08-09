@@ -204,6 +204,7 @@
     <ClCompile Include="1069 The Black Hole of Numbers.cpp" />
     <ClCompile Include="1070 Mooncake.cpp" />
     <ClCompile Include="1071 Speech Patterns.cpp" />
+    <ClCompile Include="1072 Gas Station.cpp" />
     <ClCompile Include="leetcode_8.cpp" />
     <ClCompile Include="template.cpp" />
   </ItemGroup>
