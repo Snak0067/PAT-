@@ -205,6 +205,8 @@
     <ClCompile Include="1070 Mooncake.cpp" />
     <ClCompile Include="1071 Speech Patterns.cpp" />
     <ClCompile Include="1072 Gas Station.cpp" />
+    <ClCompile Include="1073 Scientific Notation.cpp" />
+    <ClCompile Include="1074 Reversing Linked List.cpp" />
     <ClCompile Include="leetcode_8.cpp" />
     <ClCompile Include="template.cpp" />
   </ItemGroup>

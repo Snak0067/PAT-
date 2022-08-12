@@ -219,5 +219,11 @@
     <ClCompile Include="1072 Gas Station.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1073 Scientific Notation.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1074 Reversing Linked List.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
