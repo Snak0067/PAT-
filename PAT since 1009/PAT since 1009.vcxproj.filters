@@ -225,5 +225,14 @@
     <ClCompile Include="1074 Reversing Linked List.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1075 PAT Judge.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1076 Forwards on Weibo.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1077 Kuchiguse.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

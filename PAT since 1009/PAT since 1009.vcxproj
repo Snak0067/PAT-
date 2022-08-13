@@ -207,6 +207,9 @@
     <ClCompile Include="1072 Gas Station.cpp" />
     <ClCompile Include="1073 Scientific Notation.cpp" />
     <ClCompile Include="1074 Reversing Linked List.cpp" />
+    <ClCompile Include="1075 PAT Judge.cpp" />
+    <ClCompile Include="1076 Forwards on Weibo.cpp" />
+    <ClCompile Include="1077 Kuchiguse.cpp" />
     <ClCompile Include="leetcode_8.cpp" />
     <ClCompile Include="template.cpp" />
   </ItemGroup>
