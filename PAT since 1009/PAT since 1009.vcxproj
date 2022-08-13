@@ -210,6 +210,7 @@
     <ClCompile Include="1075 PAT Judge.cpp" />
     <ClCompile Include="1076 Forwards on Weibo.cpp" />
     <ClCompile Include="1077 Kuchiguse.cpp" />
+    <ClCompile Include="1078 Hashing.cpp" />
     <ClCompile Include="leetcode_8.cpp" />
     <ClCompile Include="template.cpp" />
   </ItemGroup>
