@@ -240,5 +240,8 @@
     <ClCompile Include="1079 Total Sales of Supply Chain.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1080 Graduate Admission.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -212,6 +212,7 @@
     <ClCompile Include="1077 Kuchiguse.cpp" />
     <ClCompile Include="1078 Hashing.cpp" />
     <ClCompile Include="1079 Total Sales of Supply Chain.cpp" />
+    <ClCompile Include="1080 Graduate Admission.cpp" />
     <ClCompile Include="leetcode_8.cpp" />
     <ClCompile Include="template.cpp" />
   </ItemGroup>
