@@ -243,5 +243,8 @@
     <ClCompile Include="1080 Graduate Admission.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1081 Rational Sum.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
