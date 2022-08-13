@@ -214,6 +214,8 @@
     <ClCompile Include="1079 Total Sales of Supply Chain.cpp" />
     <ClCompile Include="1080 Graduate Admission.cpp" />
     <ClCompile Include="1081 Rational Sum.cpp" />
+    <ClCompile Include="1082 Read Number in Chinese.cpp" />
+    <ClCompile Include="1083 List Grades.cpp" />
     <ClCompile Include="leetcode_8.cpp" />
     <ClCompile Include="template.cpp" />
   </ItemGroup>

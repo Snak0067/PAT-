@@ -246,5 +246,11 @@
     <ClCompile Include="1081 Rational Sum.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1082 Read Number in Chinese.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1083 List Grades.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
