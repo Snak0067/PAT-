@@ -219,6 +219,7 @@
     <ClCompile Include="1084 Broken Keyboard.cpp" />
     <ClCompile Include="1085 Perfect Sequence.cpp" />
     <ClCompile Include="1086 Tree Traversals Again.cpp" />
+    <ClCompile Include="1087 All Roads Lead to Rome.cpp" />
     <ClCompile Include="leetcode_8.cpp" />
     <ClCompile Include="template.cpp" />
   </ItemGroup>
