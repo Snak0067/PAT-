@@ -252,5 +252,11 @@
     <ClCompile Include="1083 List Grades.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1084 Broken Keyboard.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1085 Perfect Sequence.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
