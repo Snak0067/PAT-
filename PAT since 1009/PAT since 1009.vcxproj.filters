@@ -261,5 +261,8 @@
     <ClCompile Include="1086 Tree Traversals Again.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1087 All Roads Lead to Rome.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
