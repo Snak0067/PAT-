@@ -223,6 +223,7 @@
     <ClCompile Include="1088 Rational Arithmetic.cpp" />
     <ClCompile Include="1089 Insert or Merge.cpp" />
     <ClCompile Include="1090 Highest Price in Supply Chain.cpp" />
+    <ClCompile Include="1091 Acute Stroke.cpp" />
     <ClCompile Include="leetcode_8.cpp" />
     <ClCompile Include="template.cpp" />
   </ItemGroup>

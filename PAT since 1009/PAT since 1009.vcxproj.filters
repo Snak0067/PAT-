@@ -273,5 +273,8 @@
     <ClCompile Include="1090 Highest Price in Supply Chain.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1091 Acute Stroke.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
