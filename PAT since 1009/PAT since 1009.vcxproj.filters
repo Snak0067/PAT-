@@ -267,5 +267,11 @@
     <ClCompile Include="1088 Rational Arithmetic.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1089 Insert or Merge.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1090 Highest Price in Supply Chain.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
