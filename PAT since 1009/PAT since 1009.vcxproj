@@ -225,6 +225,7 @@
     <ClCompile Include="1090 Highest Price in Supply Chain.cpp" />
     <ClCompile Include="1091 Acute Stroke.cpp" />
     <ClCompile Include="1092 To Buy or Not to Buy.cpp" />
+    <ClCompile Include="1093 Count PAT%27s.cpp" />
     <ClCompile Include="leetcode_8.cpp" />
     <ClCompile Include="template.cpp" />
   </ItemGroup>

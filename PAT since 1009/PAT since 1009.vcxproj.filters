@@ -279,5 +279,8 @@
     <ClCompile Include="1092 To Buy or Not to Buy.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1093 Count PAT%27s.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
