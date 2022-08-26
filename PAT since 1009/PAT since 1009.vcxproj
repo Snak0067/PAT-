@@ -228,6 +228,7 @@
     <ClCompile Include="1093 Count PAT%27s.cpp" />
     <ClCompile Include="1094 The Largest Generation.cpp" />
     <ClCompile Include="1095 Cars on Campus.cpp" />
+    <ClCompile Include="1096 Consecutive Factors.cpp" />
     <ClCompile Include="leetcode_8.cpp" />
     <ClCompile Include="template.cpp" />
   </ItemGroup>

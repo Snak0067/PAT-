@@ -288,5 +288,8 @@
     <ClCompile Include="1095 Cars on Campus.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1096 Consecutive Factors.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
