@@ -291,5 +291,8 @@
     <ClCompile Include="1096 Consecutive Factors.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1097 Deduplication on a Linked List.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
