@@ -297,5 +297,8 @@
     <ClCompile Include="1098 Insertion or Heap Sort.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1099 Build A Binary Search Tree.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
