@@ -232,6 +232,7 @@
     <ClCompile Include="1097 Deduplication on a Linked List.cpp" />
     <ClCompile Include="1098 Insertion or Heap Sort.cpp" />
     <ClCompile Include="1099 Build A Binary Search Tree.cpp" />
+    <ClCompile Include="1100 Mars Numbers.cpp" />
     <ClCompile Include="leetcode_8.cpp" />
     <ClCompile Include="template.cpp" />
   </ItemGroup>
