@@ -233,6 +233,7 @@
     <ClCompile Include="1098 Insertion or Heap Sort.cpp" />
     <ClCompile Include="1099 Build A Binary Search Tree.cpp" />
     <ClCompile Include="1100 Mars Numbers.cpp" />
+    <ClCompile Include="1101 Quick Sort.cpp" />
     <ClCompile Include="leetcode_8.cpp" />
     <ClCompile Include="template.cpp" />
   </ItemGroup>
