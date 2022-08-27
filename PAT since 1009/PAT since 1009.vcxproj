@@ -235,6 +235,7 @@
     <ClCompile Include="1100 Mars Numbers.cpp" />
     <ClCompile Include="1101 Quick Sort.cpp" />
     <ClCompile Include="1102 Invert a Binary Tree.cpp" />
+    <ClCompile Include="1103 Integer Factorization.cpp" />
     <ClCompile Include="leetcode_8.cpp" />
     <ClCompile Include="template.cpp" />
   </ItemGroup>
