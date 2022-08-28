@@ -1,6 +1,6 @@
 #include<iostream>
 #include<string>
-#include<map>
+#include<cmath>
 #include<vector>
 #include<algorithm>
 using namespace std;
@@ -8,10 +8,10 @@ using namespace std;
 int n, k, p;
 vector<vector<int>>ans;
 vector<vector<int>>only;
+int record[25];
 void travel(vector<int>v, int num, int level) {
-	if (level > k)return;
-	if (num == 0) {
-		if (level == k)ans.push_back(v);
+	if (num == 0 || level == k) {
+		if (num == 0 && level == k)ans.push_back(v);
 		return;
 	}
 	int x = sqrt(num);
@@ -20,19 +20,28 @@ void travel(vector<int>v, int num, int level) {
 	}
 	for (int i = x; i > 0; i--)
 	{
+		if (k * record[i] < num) {
+			return;
+		}
 		int len = v.size();
 		if (v.size() > 0 && i > v[len - 1]) {
 			return;
 		}
-		v.push_back(i);
-		travel(v, num - pow(i, p), level + 1);
-		v.pop_back();
+		if (level + 1 <= k) {
+			v.push_back(i);
+			travel(v, num - record[i], level + 1);
+			v.pop_back();
+		}
 	}
 }
 
 int main() {
-	scanf("%d%d%d", &n, &k, &p);
+	scanf_s("%d%d%d", &n, &k, &p);
 	vector<int>temp;
+	for (int i = 0; i < 25; i++)
+	{
+		record[i] = pow(i, p);
+	}
 	travel(temp, n, 0);
 	if (ans.size() == 0) {
 		printf("Impossible");
@@ -50,7 +59,8 @@ int main() {
 		}
 		else if (sum == max)only.push_back(ans[i]);
 	}
-	int i, index = 0;
+
+	int index = 0;
 	while (only.size() > 1 && index < k) {
 		int max = only[0][index];
 		ans.clear();
@@ -73,7 +83,7 @@ int main() {
 	printf("%d = %d^%d", n, only[0][0], p);
 	for (int i = 1; i < only[0].size(); i++)
 	{
-		printf(" + %d^%d",only[0][i], p);
+		printf(" + %d^%d", only[0][i], p);
 	}
 	return 0;
 }
