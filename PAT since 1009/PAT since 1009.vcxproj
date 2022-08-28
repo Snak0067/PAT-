@@ -239,6 +239,7 @@
     <ClCompile Include="1104 Sum of Number Segments.cpp" />
     <ClCompile Include="1105 Spiral Matrix.cpp" />
     <ClCompile Include="1106 Lowest Price in Supply Chain.cpp" />
+    <ClCompile Include="1107 Social Clusters.cpp" />
     <ClCompile Include="leetcode_8.cpp" />
     <ClCompile Include="template.cpp" />
   </ItemGroup>

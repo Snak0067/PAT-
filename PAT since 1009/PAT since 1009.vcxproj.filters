@@ -321,5 +321,8 @@
     <ClCompile Include="1106 Lowest Price in Supply Chain.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1107 Social Clusters.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
