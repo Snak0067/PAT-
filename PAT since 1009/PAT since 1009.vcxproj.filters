@@ -315,5 +315,8 @@
     <ClCompile Include="1104 Sum of Number Segments.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1105 Spiral Matrix.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
