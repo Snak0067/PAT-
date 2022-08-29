@@ -324,5 +324,8 @@
     <ClCompile Include="1107 Social Clusters.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1108 Finding Average.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
