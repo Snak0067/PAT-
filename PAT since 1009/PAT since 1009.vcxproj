@@ -246,6 +246,7 @@
     <ClCompile Include="1111 Online Map.cpp" />
     <ClCompile Include="1112 Stucked Keyboard.cpp" />
     <ClCompile Include="1113 Integer Set Partition.cpp" />
+    <ClCompile Include="1114 Family Property.cpp" />
     <ClCompile Include="leetcode_8.cpp" />
     <ClCompile Include="template.cpp" />
   </ItemGroup>

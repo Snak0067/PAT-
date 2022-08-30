@@ -342,5 +342,8 @@
     <ClCompile Include="1113 Integer Set Partition.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1114 Family Property.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
