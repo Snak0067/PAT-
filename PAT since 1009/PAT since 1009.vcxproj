@@ -244,6 +244,7 @@
     <ClCompile Include="1109 Group Photo.cpp" />
     <ClCompile Include="1110 Complete Binary Tree.cpp" />
     <ClCompile Include="1111 Online Map.cpp" />
+    <ClCompile Include="1112 Stucked Keyboard.cpp" />
     <ClCompile Include="leetcode_8.cpp" />
     <ClCompile Include="template.cpp" />
   </ItemGroup>
