@@ -19,8 +19,12 @@ struct output
 	int num;
 	double avgHouseNum, avgArea;
 };
+bool cmp(output o1, output o2) {
+	if (o1.avgArea != o2.avgArea)return o1.avgArea > o2.avgArea;
+	return o1.minName < o2.minName;
+}
 vector<output>families;
-bool visit[2005];
+bool visit[3000];
 unordered_map<int, string>indexMap;
 unordered_map<string, int>idMap;
 unordered_map<string, node>people;
@@ -68,9 +72,14 @@ int main() {
 				idMap[cid] = index;
 				indexMap[index] = cid;
 				childNode = node(cid, index);
-				people[cid] = childNode;
 				index++;
 			}
+			else {
+				childNode = people[cid];
+			}
+			childNode.childs.push_back(id);
+			people[cid] = childNode;
+
 			tempNode.childs.push_back(cid);
 		}
 		scanf_s("%d %d", &tempNode.houseNum, &tempNode.area);
@@ -120,7 +129,13 @@ int main() {
 			minName = "";
 			familyNum = 0, estateNum = 0, houseArea = 0;
 		}
-
+	}
+	sort(families.begin(), families.end(), cmp);
+	printf("%d\n", families.size());
+	for (int i = 0; i < families.size(); i++)
+	{
+		output op = families[i];
+		printf("%s %d %.3f %.3f\n", op.minName.c_str(), op.num, op.avgHouseNum, op.avgArea);
 	}
 	return 0;
 }
