@@ -351,5 +351,8 @@
     <ClCompile Include="1116 Come on! Let%27s C.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1117 Eddington Number.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
