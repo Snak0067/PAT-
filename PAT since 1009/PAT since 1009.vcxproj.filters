@@ -354,5 +354,8 @@
     <ClCompile Include="1117 Eddington Number.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1118 Birds in Forest.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
