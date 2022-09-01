@@ -252,6 +252,7 @@
     <ClCompile Include="1117 Eddington Number.cpp" />
     <ClCompile Include="1118 Birds in Forest.cpp" />
     <ClCompile Include="1119 Pre- and Post-order Traversals.cpp" />
+    <ClCompile Include="1120 Friend Numbers.cpp" />
     <ClCompile Include="leetcode_8.cpp" />
     <ClCompile Include="template.cpp" />
   </ItemGroup>
