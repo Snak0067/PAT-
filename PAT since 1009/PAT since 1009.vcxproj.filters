@@ -363,5 +363,8 @@
     <ClCompile Include="1120 Friend Numbers.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1121 Damn Single.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
