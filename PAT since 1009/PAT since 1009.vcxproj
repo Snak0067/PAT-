@@ -255,6 +255,7 @@
     <ClCompile Include="1120 Friend Numbers.cpp" />
     <ClCompile Include="1121 Damn Single.cpp" />
     <ClCompile Include="1122 Hamiltonian Cycle.cpp" />
+    <ClCompile Include="1123 Is It a Complete AVL Tree.cpp" />
     <ClCompile Include="leetcode_8.cpp" />
     <ClCompile Include="template.cpp" />
   </ItemGroup>
