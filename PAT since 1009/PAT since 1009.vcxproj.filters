@@ -372,5 +372,8 @@
     <ClCompile Include="1123 Is It a Complete AVL Tree.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1124 Raffle for Weibo Followers.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
