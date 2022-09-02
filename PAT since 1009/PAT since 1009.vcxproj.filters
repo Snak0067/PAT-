@@ -384,5 +384,8 @@
     <ClCompile Include="1127 ZigZagging on a Tree.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1128 N Queens Puzzle.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

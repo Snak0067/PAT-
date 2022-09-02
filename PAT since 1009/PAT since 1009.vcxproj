@@ -260,6 +260,7 @@
     <ClCompile Include="1125 Chain the Ropes.cpp" />
     <ClCompile Include="1126 Eulerian Path.cpp" />
     <ClCompile Include="1127 ZigZagging on a Tree.cpp" />
+    <ClCompile Include="1128 N Queens Puzzle.cpp" />
     <ClCompile Include="leetcode_8.cpp" />
     <ClCompile Include="template.cpp" />
   </ItemGroup>
