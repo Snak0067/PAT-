@@ -378,5 +378,8 @@
     <ClCompile Include="1125 Chain the Ropes.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1126 Eulerian Path.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

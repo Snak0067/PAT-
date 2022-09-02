@@ -258,6 +258,7 @@
     <ClCompile Include="1123 Is It a Complete AVL Tree.cpp" />
     <ClCompile Include="1124 Raffle for Weibo Followers.cpp" />
     <ClCompile Include="1125 Chain the Ropes.cpp" />
+    <ClCompile Include="1126 Eulerian Path.cpp" />
     <ClCompile Include="leetcode_8.cpp" />
     <ClCompile Include="template.cpp" />
   </ItemGroup>
