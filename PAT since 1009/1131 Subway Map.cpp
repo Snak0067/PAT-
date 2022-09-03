@@ -25,7 +25,7 @@
 //				dis = min(dis, len - dis - 1);
 //			}
 //		}
-//		if (costDis > distance + dis || ((costDis == distance + dis) && siteTemp.size() < anssite.size())) {
+//		if (costDis > distance + dis || ((costDis == distance + dis) && temp.size() < ans.size())) {
 //			ans = temp;
 //			anssite = siteTemp;
 //			costDis = distance + dis;
@@ -137,17 +137,15 @@
 //	}
 //}
 //int main() {
-//	scanf_s("%d", &n);
-//	fill(visitLine, visitLine + 11, false);
-//	fill(visit, visit + 10005, false);
+//	scanf("%d", &n);
 //	for (int i = 1; i <= n; i++)
 //	{
-//		scanf_s("%d", &k);
+//		scanf("%d", &k);
 //		for (int u = 1; u <= k; u++)
 //		{
 //			cin >> station;
 //			if (xuhao.find(station) == xuhao.end())xuhao[station] = index++;
-//			transfer[station].push_back(i);
+//			if (!(u == k && line[i][0] == station))transfer[station].push_back(i);
 //			G[xuhao[station]][i] = u;//站点station相对于线路i的排列位置为u
 //			line[i].push_back(station);
 //		}
@@ -159,7 +157,7 @@
 //		it++;
 //	}
 //	transfer = transferTemp;
-//	scanf_s("%d", &k);
+//	scanf("%d", &k);
 //	for (int i = 0; i < k; i++)
 //	{
 //		cin >> start >> destination;
@@ -181,6 +179,8 @@
 //			vector<string>siteTemp;
 //			tempsite.push_back(subway1);
 //			siteTemp.push_back(start);
+//			fill(visitLine, visitLine + 11, false);
+//			fill(visit, visit + 10005, false);
 //			visit[a] = true;
 //			visitLine[subway1] = true;
 //			dfs(subway1, xuhao1, xuhao2, tempsite, siteTemp, 0);
