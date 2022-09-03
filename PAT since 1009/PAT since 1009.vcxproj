@@ -262,6 +262,7 @@
     <ClCompile Include="1127 ZigZagging on a Tree.cpp" />
     <ClCompile Include="1128 N Queens Puzzle.cpp" />
     <ClCompile Include="1129 Recommendation System.cpp" />
+    <ClCompile Include="1130 Infix Expression.cpp" />
     <ClCompile Include="leetcode_8.cpp" />
     <ClCompile Include="template.cpp" />
   </ItemGroup>
