@@ -265,6 +265,7 @@
     <ClCompile Include="1130 Infix Expression.cpp" />
     <ClCompile Include="1131 Subway Map corret.cpp" />
     <ClCompile Include="1131 Subway Map.cpp" />
+    <ClCompile Include="1132 Cut Integer.cpp" />
     <ClCompile Include="leetcode_8.cpp" />
     <ClCompile Include="template.cpp" />
   </ItemGroup>

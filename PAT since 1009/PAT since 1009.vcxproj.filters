@@ -399,5 +399,8 @@
     <ClCompile Include="1131 Subway Map corret.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1132 Cut Integer.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
