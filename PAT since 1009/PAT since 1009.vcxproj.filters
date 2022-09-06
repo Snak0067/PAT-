@@ -405,5 +405,8 @@
     <ClCompile Include="1133 Splitting A Linked List.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1134 Vertex Cover.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

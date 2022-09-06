@@ -267,6 +267,7 @@
     <ClCompile Include="1131 Subway Map.cpp" />
     <ClCompile Include="1132 Cut Integer.cpp" />
     <ClCompile Include="1133 Splitting A Linked List.cpp" />
+    <ClCompile Include="1134 Vertex Cover.cpp" />
     <ClCompile Include="leetcode_8.cpp" />
     <ClCompile Include="template.cpp" />
   </ItemGroup>
