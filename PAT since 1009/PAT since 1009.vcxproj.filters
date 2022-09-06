@@ -411,5 +411,11 @@
     <ClCompile Include="1135 Is It A Red-Black Tree.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1136 A Delayed Palindrome.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1137 Final Grading.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
