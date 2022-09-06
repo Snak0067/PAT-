@@ -402,5 +402,8 @@
     <ClCompile Include="1132 Cut Integer.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1133 Splitting A Linked List.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
