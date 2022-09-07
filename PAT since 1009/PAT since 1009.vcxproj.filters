@@ -426,5 +426,8 @@
     <ClCompile Include="1140 Look-and-say Sequence.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1141 PAT Ranking of Institutions.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
