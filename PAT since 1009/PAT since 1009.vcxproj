@@ -273,6 +273,7 @@
     <ClCompile Include="1137 Final Grading.cpp" />
     <ClCompile Include="1138 Postorder Traversal.cpp" />
     <ClCompile Include="1139 First Contact.cpp" />
+    <ClCompile Include="1140 Look-and-say Sequence.cpp" />
     <ClCompile Include="leetcode_8.cpp" />
     <ClCompile Include="template.cpp" />
   </ItemGroup>
