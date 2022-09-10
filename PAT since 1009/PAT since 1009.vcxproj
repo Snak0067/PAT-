@@ -278,6 +278,7 @@
     <ClCompile Include="1142 Maximal Clique.cpp" />
     <ClCompile Include="1143 Lowest Common Ancestor.cpp" />
     <ClCompile Include="1144 The Missing Number.cpp" />
+    <ClCompile Include="1145 Hashing - Average Search Time.cpp" />
     <ClCompile Include="leetcode_8.cpp" />
     <ClCompile Include="template.cpp" />
   </ItemGroup>

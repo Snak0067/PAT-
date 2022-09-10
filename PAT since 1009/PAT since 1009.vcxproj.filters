@@ -438,5 +438,8 @@
     <ClCompile Include="1144 The Missing Number.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1145 Hashing - Average Search Time.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
