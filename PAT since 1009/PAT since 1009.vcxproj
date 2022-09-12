@@ -281,6 +281,7 @@
     <ClCompile Include="1145 Hashing - Average Search Time.cpp" />
     <ClCompile Include="1146 Topological Order.cpp" />
     <ClCompile Include="1147 Heaps.cpp" />
+    <ClCompile Include="1148 Werewolf - Simple Version.cpp" />
     <ClCompile Include="leetcode_8.cpp" />
     <ClCompile Include="template.cpp" />
   </ItemGroup>
