@@ -453,5 +453,8 @@
     <ClCompile Include="1149 Dangerous Goods Packaging.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1150 Travelling Salesman Problem.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
