@@ -284,6 +284,8 @@
     <ClCompile Include="1148 Werewolf - Simple Version.cpp" />
     <ClCompile Include="1149 Dangerous Goods Packaging.cpp" />
     <ClCompile Include="1150 Travelling Salesman Problem.cpp" />
+    <ClCompile Include="1151 LCA in a Binary Tree.cpp" />
+    <ClCompile Include="1152 Google Recruitment.cpp" />
     <ClCompile Include="leetcode_8.cpp" />
     <ClCompile Include="template.cpp" />
   </ItemGroup>
