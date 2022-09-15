@@ -462,5 +462,17 @@
     <ClCompile Include="1152 Google Recruitment.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1153 Decode Registration Card of PAT.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1154 Vertex Coloring.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1155 Heap Paths.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1156 Sexy Primes.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
