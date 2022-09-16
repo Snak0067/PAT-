@@ -474,5 +474,8 @@
     <ClCompile Include="1156 Sexy Primes.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1157 Anniversary.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
