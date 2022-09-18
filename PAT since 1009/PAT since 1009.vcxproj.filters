@@ -489,5 +489,11 @@
     <ClCompile Include="7-4 Complete D-Tree.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1158 Telefraud Detection.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1159 Structure of a Binary Tree.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
