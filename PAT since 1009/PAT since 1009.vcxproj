@@ -293,6 +293,10 @@
     <ClCompile Include="1157 Anniversary.cpp" />
     <ClCompile Include="1158 Telefraud Detection.cpp" />
     <ClCompile Include="1159 Structure of a Binary Tree.cpp" />
+    <ClCompile Include="1160 Forever.cpp" />
+    <ClCompile Include="1161 Merging Linked Lists.cpp" />
+    <ClCompile Include="1162 Postfix Expression.cpp" />
+    <ClCompile Include="1163 Dijkstra Sequence.cpp" />
     <ClCompile Include="7-1 What Day is Today.cpp" />
     <ClCompile Include="7-2 Least Recently Used Cache.cpp" />
     <ClCompile Include="7-3 DFS Sequence.cpp" />

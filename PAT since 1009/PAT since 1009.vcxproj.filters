@@ -495,5 +495,17 @@
     <ClCompile Include="1159 Structure of a Binary Tree.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1160 Forever.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1161 Merging Linked Lists.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1162 Postfix Expression.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1163 Dijkstra Sequence.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
