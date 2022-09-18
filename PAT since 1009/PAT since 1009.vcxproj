@@ -291,6 +291,10 @@
     <ClCompile Include="1155 Heap Paths.cpp" />
     <ClCompile Include="1156 Sexy Primes.cpp" />
     <ClCompile Include="1157 Anniversary.cpp" />
+    <ClCompile Include="7-1 What Day is Today.cpp" />
+    <ClCompile Include="7-2 Least Recently Used Cache.cpp" />
+    <ClCompile Include="7-3 DFS Sequence.cpp" />
+    <ClCompile Include="7-4 Complete D-Tree.cpp" />
     <ClCompile Include="leetcode_8.cpp" />
     <ClCompile Include="template.cpp" />
   </ItemGroup>

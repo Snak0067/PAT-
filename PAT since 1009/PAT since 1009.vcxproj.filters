@@ -477,5 +477,17 @@
     <ClCompile Include="1157 Anniversary.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="7-1 What Day is Today.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7-2 Least Recently Used Cache.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7-3 DFS Sequence.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7-4 Complete D-Tree.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
