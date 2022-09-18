@@ -507,5 +507,11 @@
     <ClCompile Include="1163 Dijkstra Sequence.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1164 Good in C.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="岛屿数量.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

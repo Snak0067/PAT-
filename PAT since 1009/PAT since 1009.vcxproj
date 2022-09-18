@@ -297,12 +297,14 @@
     <ClCompile Include="1161 Merging Linked Lists.cpp" />
     <ClCompile Include="1162 Postfix Expression.cpp" />
     <ClCompile Include="1163 Dijkstra Sequence.cpp" />
+    <ClCompile Include="1164 Good in C.cpp" />
     <ClCompile Include="7-1 What Day is Today.cpp" />
     <ClCompile Include="7-2 Least Recently Used Cache.cpp" />
     <ClCompile Include="7-3 DFS Sequence.cpp" />
     <ClCompile Include="7-4 Complete D-Tree.cpp" />
     <ClCompile Include="leetcode_8.cpp" />
     <ClCompile Include="template.cpp" />
+    <ClCompile Include="岛屿数量.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
